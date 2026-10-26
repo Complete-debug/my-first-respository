@@ -2,7 +2,7 @@
 
 My first GitHub respository for introduction to Computing
 
-**Name:** [Mary Frizy C. Fernandez]
+**Name:** Mary Frizy C. Fernandez
 
 **Course:** Introduction to Computing
 
